@@ -1,0 +1,14 @@
+ul#myTab li.active {
+    border-right: 5px solid #ffeb3b !important;
+    border-radius: 0 0.5em 0.5em 0;
+}
+
+.z-depth {
+    -webkit-box-shadow: 0 0 5px 2px rgba(0, 0, 0, .5);
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, .5);
+}
+
+.z-depth:hover {
+    -webkit-box-shadow: 0 0 5px 2px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, .2);
+}
